@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "pack1": "^0.0.1"
+  },
+  "name": "pack3",
+  "version": "1.0.0",
+  "description": "jayesh",
+  "main": "jayesg",
+  "scripts": {
+    "test": "init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "fff"
+  },
+  "keywords": [
+    "star"
+  ],
+  "author": "jayesh",
+  "license": "ISC"
+}
